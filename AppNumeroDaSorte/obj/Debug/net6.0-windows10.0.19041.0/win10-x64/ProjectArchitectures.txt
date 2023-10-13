@@ -1,0 +1,1 @@
+C:\temp\ws-dotnet\AppNumeroDaSorte\AppNumeroDaSorte\AppNumeroDaSorte.csproj;x64
